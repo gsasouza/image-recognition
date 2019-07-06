@@ -6,3 +6,11 @@ It based in these two projects:
 - [OIDv4 ToolKit](https://github.com/EscVM/OIDv4_ToolKit)
 
 And is intended to run o [Google Colab](https://colab.research.google.com/)
+
+
+# Results
+
+I first trained it to identify a caterpillar, it was tested from a random google images picture and with a picture that I take
+![Self made picture](https://i.imgur.com/kWYQBXn.jpg)
+
+![Google Images](https://i.imgur.com/8YNq5x4.jpg)
